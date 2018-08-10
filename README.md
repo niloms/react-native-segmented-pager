@@ -24,9 +24,10 @@ Pure React Native cross-platform segmented pager component
 ## Demo
 
 Please see `example` folder
+
 <img
   src="https://github.com/niloms/react-native-segmented-pager/blob/master/ReactNativeSegmentedPager.gif?raw=true"
-  width="360"
+  width="180"
 />
 
 ## Installation
@@ -134,7 +135,6 @@ function getPages() {
 Here
 - `content` - a React Native element
 - `scrollViewProps` - ScrollView props for vertical ScrollView component of the page
-
 
 - `style` - custom style for the component
 
