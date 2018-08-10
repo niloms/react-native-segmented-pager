@@ -1,0 +1,23 @@
+{
+  "name": "react-native-segmented-pager",
+  "version": "0.1.8",
+  "description": "Pure React Native segmented pager component",
+  "main": "ReactNativeSegmentedPager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "ios",
+    "android",
+    "segmented",
+    "pager"
+  ],
+  "author": "Slava Smolin",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.3.0",
+    "react-native": "*"
+  }
+}
