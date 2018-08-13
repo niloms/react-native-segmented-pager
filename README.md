@@ -9,7 +9,7 @@ Pure React Native cross-platform segmented pager component
 
 - React version >= 16.3.0
 - React Native - any version with Animated lib supported (but tested with >= 0.55.4 only)
-
+- Babel preset - react-native
 
 ## Features
 
@@ -120,6 +120,7 @@ function getPages() {
 - `headerStyle` - custom style for the header (style object)
 - `horScrollProps` - ScrollView props for horizontal ScrollView component
 - `onCurrentPageChange` - a callback function called when current page changes (takes index of the new visible page as an argument)
+- `style` - custom style for the component
 - `pages` - array of objects of the following view:
 
 ```js
@@ -133,8 +134,6 @@ function getPages() {
 Here
 - `content` - a React Native element
 - `scrollViewProps` - ScrollView props for vertical ScrollView component of the page
-
-- `style` - custom style for the component
 
 
 ## Header as a render prop

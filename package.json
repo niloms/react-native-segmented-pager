@@ -16,6 +16,10 @@
   ],
   "author": "Slava Smolin",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niloms/react-native-segmented-pager.git"
+  },
   "peerDependencies": {
     "react": "^16.3.0",
     "react-native": "*"
