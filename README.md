@@ -1,4 +1,7 @@
-# React Native Segmented Pager 
+# React Native Segmented Pager
+
+[![Version][version-badge]][package]
+[![MIT License][license-badge]][license]
 
 Pure React Native cross-platform segmented pager component
 
