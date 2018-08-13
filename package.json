@@ -1,6 +1,6 @@
 {
   "name": "react-native-segmented-pager",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "description": "Pure React Native segmented pager component",
   "main": "ReactNativeSegmentedPager.js",
   "scripts": {
