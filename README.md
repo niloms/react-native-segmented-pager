@@ -1,5 +1,5 @@
 # React Native Segmented Pager
-
+![npm](https://img.shields.io/npm/v/react-native-segmented-pager.svg)
 [![GitHub license](https://img.shields.io/github/license/niloms/react-native-segmented-pager.svg)](https://github.com/niloms/react-native-segmented-pager/blob/master/LICENSE)
 
 Pure React Native cross-platform segmented pager component
