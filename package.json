@@ -12,7 +12,8 @@
     "ios",
     "android",
     "segmented",
-    "pager"
+    "pager",
+    "parallax"
   ],
   "author": "Slava Smolin",
   "license": "MIT",
